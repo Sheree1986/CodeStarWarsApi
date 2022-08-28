@@ -1,6 +1,13 @@
+# use git clone https://github.com/Sheree1986/CodeStarWarsApi.git
+# run npx create-react-app 
+# then npm start
+# use the search form to look up characters by name.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+npx create-react-app my-app
 
 ## Available Scripts
 

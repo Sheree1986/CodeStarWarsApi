@@ -37,7 +37,9 @@ const App = () => {
           key={result.name}
           name={result.name}
           birthYear={result.birth_year}
-          homeworld={result.homeworld}
+          films={result.films}
+         
+        
           />
           ))}
         </div>

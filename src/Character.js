@@ -6,8 +6,8 @@ const Character = ({ name, birthYear, homeworld }) => {
   return (
     <div>
       <h3>{name}</h3>
+      <p>Films names: {films}</p>
       <p>Birth Year: {birthYear}</p>
-      <p>{homeworld}</p>
     </div>
   );
 };
